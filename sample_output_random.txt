@@ -1,0 +1,9 @@
+Loading training data from data/input.txt...
+Training data: 887 words, 105 sentences
+
+Training Markov generator (order=3)...
+
+Generating text (~120 words, min 4 sentences)...
+
+home. Foxes are primarily crepuscular, most active at dawn and dusk. That determined beagle follows its powerful nose everywhere! My corgi instinctively tries to herd small children together. A fox den typically has multiple well-hidden exits. Dogs experience vivid dreams during REM sleep cycles. The desert fox developed enormous ears for heat regulation. Why is that bold fox approaching so close to humans? Service dogs provide invaluable assistance to people with disabilities. Foxes sometimes cache surplus food for leaner times. Dogs uniquely understand human pointing gestures. The silver fox represents a striking color morph. Huskies powerfully pull sleds through deep Arctic snow. A fox's delicate whiskers aid navigation in darkness. That mixed-breed mutt knows over twenty distinct commands! Fox populations!
+
