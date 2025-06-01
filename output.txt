@@ -1,0 +1,9 @@
+Loading training data from data/input.txt...
+Training data: 887 words, 105 sentences
+
+Training Markov generator (order=3)...
+
+Generating text (~120 words, min 4 sentences)...
+
+nocturnal. That fox is stealthily stalking an unsuspecting mouse!
+
