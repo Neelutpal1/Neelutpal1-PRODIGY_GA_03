@@ -5,7 +5,6 @@ This project is a flexible and lightweight **Markov chain-based text generator**
 
 # 📂 Project Structure
 <pre>
-``` Project Structure
 ├── main.py # Entry point for training/generating
 ├── src/
 │   └── markov_generator.py # Core Markov logic
