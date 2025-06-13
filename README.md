@@ -4,7 +4,20 @@
 This project is a flexible and lightweight **Markov chain-based text generator**, developed as part of a **Generative AI internship**. It analyzes a text corpus and generates new, semi-random sentences based on learned word transitions.
 
 # 📂 Project Structure
-<pre> ``` Project Structure ├── main.py # Entry point for training/generating ├── src/ │ └── markov_generator.py # Core Markov logic ├── data/ │ └── input.txt # Sample training text ├── sample_output_seeded.txt # Sample output (fixed seed) ├── sample_output_random.txt # Sample output (no seed) ├── requirements.txt # Python dependencies ├── README.md # Project documentation ├── .gitignore └── LICENSE ``` </pre>
+<pre>
+``` Project Structure
+├── main.py # Entry point for training/generating
+├── src/
+│   └── markov_generator.py # Core Markov logic
+├── data/
+│   └── input.txt # Sample training text
+├── sample_output_seeded.txt # Sample output (fixed seed)
+├── sample_output_random.txt # Sample output (no seed)
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── .gitignore
+└── LICENSE
+</pre> ```
 
 # 🚀 How to Run
 Make sure Python 3.7+ is installed.
